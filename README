@@ -9,6 +9,7 @@ feedparser_debug.py -- a visual representation of the contents of FeedParser ins
 flatten.py -- a superfast list flatten in Python
 ita-puzzles -- a couple of solved puzzles from ITA Software
 lynx.el, lynx-actions.el -- GNU Emacs interface to the text based browser lynx
+msgs_extractor.rb -- extracts phone numbers from Microsoft Outlook MSG files
 orange4.py -- a Lisp in Python
 pii.py, strftime_helper.py -- Python Interactive Interpreter hacks (for Python 2.5 or below)
 readable-md5.lisp -- a human readable MD5 implementation in Common Lisp
