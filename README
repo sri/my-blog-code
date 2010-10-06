@@ -1,0 +1,17 @@
+Code from my blog, http://defcraft.blogspot.com
+(with some other older stuff)
+All released under the MIT License.
+
+bowling.py -- the game of bowling in Python
+convert.lisp, convert.rb -- Convert files from one format to another (example: PostScript to PDF)
+dancing_links.py -- Knuth's Dancing Links in Python
+feedparser_debug.py -- a visual representation of the contents of FeedParser instance
+flatten.py -- a superfast list flatten in Python
+ita-puzzles -- a couple of solved puzzles from ITA Software
+lynx.el, lynx-actions.el -- GNU Emacs interface to the text based browser lynx
+orange4.py -- a Lisp in Python
+pii.py, strftime_helper.py -- Python Interactive Interpreter hacks (for Python 2.5 or below)
+readable-md5.lisp -- a human readable MD5 implementation in Common Lisp
+sri-goog-amazon.user.js -- a Greasemonkey script for Firefox to make Google & Amazon searches quicker
+visualize/visualize.rb -- help you under the structure of Ruby code
+word-find.lisp -- generates a WordFind game and its solution in HTML

@@ -1,0 +1,25 @@
+module Visualize
+  class Construct
+    def initialize
+    def self.fromtree
+    def to_a
+    def same
+    def merge
+    def pp
+  class SourceFile
+    def initialize
+    def collect_requires
+    def collect_tokens
+    class StatementModifier
+      def initialize
+    def mark_statement_modifiers
+    def getname
+    def gather
+    def pp
+    def merge
+  class SourcePackage
+    def initialize
+    def pp
+def opt?
+def print_tokens
+def main
